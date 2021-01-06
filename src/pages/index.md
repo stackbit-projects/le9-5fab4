@@ -4,10 +4,11 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/plus.svg
     background_image_opacity: 80
     content: |
-      # le9
+      # le neuff
+      is the French term for "the nine". 
     actions:
       - title: See all items
         url: /store
