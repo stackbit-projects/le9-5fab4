@@ -7,7 +7,8 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 80
     content: |
-      # le9
+      # le neuff
+      is the French term for "the nine". 
     actions:
       - title: See all items
         url: /store
