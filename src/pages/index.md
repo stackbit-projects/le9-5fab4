@@ -4,11 +4,19 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/plus.svg
+    background_image: images/diagonal-stripes.svg
     background_image_opacity: 80
-    content: |
+    content: >
       # le neuff
-      is the French term for "the nine". 
+
+      Le neuf is the French Term for the number nine. A magical number which
+      means the end of something old and the beginning of something new. We all
+      know the feeling of the moment when you start your progress to a be better
+      human.
+
+
+
+      We are the symbol of your dream.
     actions:
       - title: See all items
         url: /store
